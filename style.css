@@ -36,6 +36,10 @@ section img {
     pointer-events: none;
 }
 
+section img #man {
+    transform-origin: bottom;
+}
+
 #text {
     position: absolute;
     color: #fff;
